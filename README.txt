@@ -11,7 +11,7 @@ Adds a short note in each post viewed in an RSS reader linking readers back to y
 
 This plugin is used to demonstrate the <a href="http://github.com/tommcfarlin/WordPress-Plugin-Boilerplate">WordPress Plugin Boilerplate</a>.
 
-It was also used in the WpTuts article <a href="javascript:;">Writing Maintainable WordPress Plugins</a>.
+It was also used in the WPTuts+ article <a href="http://wp.tutsplus.com/tutorials/widgets/writing-maintainable-wordpress-widgets-part-2-of-2/">Writing Maintainable WordPress Plugins</a>.
 
 == Installation ==
 
